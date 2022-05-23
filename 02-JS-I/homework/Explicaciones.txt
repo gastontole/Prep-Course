@@ -1,0 +1,10 @@
+Variables= contenedor o forma de guardar un dato o valor, sin importar si se usa o no.
+
+Strings= cadena de caracteres
+
+Funciones (argumentos, return) = sirve para realizar algun tipo de operacion que queremos usara varias veces sin escribir el mismo 
+codigo, la cual podemos acceder mediante un solo nombre , de esta funcion queremos obtener un valor o respuesta 
+,para pasarle valores que nos serviran para realizar la operacion se utilizan argumentos o variables.
+
+Declaraciones if = sirve para comprobar algo y ejecutar una o otra accion dependiendo del resultado.
+Valores booleanos (true, false) =  representan verdadero o falso , 0 o 1 .
